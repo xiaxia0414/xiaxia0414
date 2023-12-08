@@ -31,8 +31,8 @@
 
 ### 技术栈
 
-![Python](https://img.shields.io/badge/-qt-192133?style=flat-square&logo=qt&logoColor=white)
-![Go](https://img.shields.io/badge/-go-192133?style=flat-square&logo=go&logoColor=white)
+![QT](https://img.shields.io/badge/-QT-192133?style=flat-square&logo=qt&logoColor=white)
+![C++](https://img.shields.io/badge/--192133?style=flat-square&logo=C++&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
