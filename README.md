@@ -29,7 +29,7 @@
 
 ### 技术栈
 
-![QT](https://img.shields.io/badge/-QT-192133?style=flat-square&logo=qt&logoColor=white)
+![QT](https://img.shields.io/badge/-QT-192133?style=flat-square&logo=qt&logoColor=green)
 ![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
