@@ -1,4 +1,4 @@
-### 成分介绍
+### 屎山制造机
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaxia0414&count_private=true&show_icons=true&theme=dark" />
 </a>
@@ -37,6 +37,8 @@
 ![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
 
-### 绘画
+### 业业业余画手
+![Static Badge](https://img.shields.io/badge/twitter-gray?style=flat&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fxia2003414)
+
 
 
