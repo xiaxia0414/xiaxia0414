@@ -21,8 +21,8 @@
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
 
 ### 业业业余画手
-<img alt="Static Badge" img align="center" src="https://img.shields.io/badge/twitter-gray?style=flat&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fxia2003414"> https://twitter.com/xia2003414
-
+<img alt="Static Badge" img align="center" src="https://img.shields.io/badge/twitter-gray?style=flat&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fxia2003414"> 
+<https://twitter.com/xia2003414?type=lately>
 
 
 
