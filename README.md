@@ -23,7 +23,7 @@
 
 
 ### 业业业余画手
-<img alt="Static Badge" img align="below" src="https://img.shields.io/badge/twitter-gray?style=flat&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fxia2003414"> (https://twitter.com/xia2003414)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 
 
 
