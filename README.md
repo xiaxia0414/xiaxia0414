@@ -20,11 +20,11 @@
 ![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
 
-### 一些项目
+### 🏗️一些项目
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaxia0414&repo=snake_base-on-qt)
 
 
-### 业业业余画手
+### 👨‍🎨业业业余画手
 [![Twitter: xiaxia0414](https://img.shields.io/twitter/follow/xiaxia0414?style=social)](https://twitter.com/xia2003414)
 
 
