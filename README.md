@@ -32,7 +32,7 @@
 ### 技术栈
 
 ![QT](https://img.shields.io/badge/-QT-192133?style=flat-square&logo=qt&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=c/c++&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
