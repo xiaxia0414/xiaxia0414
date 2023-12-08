@@ -10,7 +10,7 @@
 
 
 
-### 技术栈
+<h3> 🛠 &nbsp;技术栈</h3>
 
 ![QT](https://img.shields.io/badge/-QT-192133?style=flat-square&logo=qt&logoColor=green)
 ![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=blue)
