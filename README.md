@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaxia0414&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
 </a>
 
-<div align="right">                                                                              
+<div align="left">                                                                              
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xiaxia0414&theme=dark" />  
  </div>                                                                                            
 
