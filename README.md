@@ -1,4 +1,4 @@
-<h2> Hi, I'm xia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Xia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ### 屎山制造机
 <a href="https://github.com/anuraghazra/github-readme-stats">
