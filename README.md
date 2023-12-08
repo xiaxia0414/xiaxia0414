@@ -18,6 +18,10 @@
 ![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
 
+### 一些项目
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaxia0414&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 业业业余画手
 <img alt="Static Badge" img align="below" src="https://img.shields.io/badge/twitter-gray?style=flat&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fxia2003414"> <https://twitter.com/xia2003414>
 
