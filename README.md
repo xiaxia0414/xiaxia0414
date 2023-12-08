@@ -31,7 +31,7 @@
 
 ### 技术栈
 
-![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-qt-192133?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-go-192133?style=flat-square&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
