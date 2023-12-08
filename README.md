@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
 
 ### 一些项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaxia0414&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaxia0414&repo=snake_base-on-qt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 业业业余画手
