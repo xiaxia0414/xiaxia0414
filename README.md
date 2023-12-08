@@ -1,11 +1,10 @@
 ### 屎山制造机
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaxia0414&count_private=true&show_icons=true&theme=gray" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaxia0414&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaxia0414&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
 </a>
-
 <div align="left">                                                                              
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xiaxia0414&theme=dark" />  
  </div>                                                                                            
@@ -22,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
 
 ### 业业业余画手
-<img alt="Static Badge" src="https://img.shields.io/badge/twitter-gray?style=flat&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fxia2003414">
+<object alt="Static Badge" src="https://img.shields.io/badge/twitter-gray?style=flat&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fxia2003414">
 
 
 
