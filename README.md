@@ -26,6 +26,6 @@
 ### 👨‍🎨业业业余画手
 [![Twitter: xiaxia0414](https://img.shields.io/twitter/follow/xiaxia0414?style=social)](https://twitter.com/xia2003414)
 
-![](https://profile-counter.glitch.me/mengps/count.svg)
+![](https://profile-counter.glitch.me/xiaxia0414/count.svg)
 
 
