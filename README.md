@@ -7,7 +7,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaxia0414&langs_count=8&theme=default&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
 </a>
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaxia0414)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🛠 &nbsp;技术栈</h3>
 
