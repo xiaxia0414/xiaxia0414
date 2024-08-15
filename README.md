@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaxia0414&langs_count=8&theme=default&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
 </a>
 
-![](https://raw.githubusercontent.com/mengps/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/xiaxia0414/github-stats-transparent/output/generated/overview.svg)
 
 <h3> 🛠 &nbsp;技术栈</h3>
 
